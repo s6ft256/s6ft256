@@ -27,7 +27,29 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=s6ft256&theme=tokyonight&hide_border=true)  
 
-[View Full Repository Metrics](https://github.com/s6ft256/matrixapp)  
+## 🧩 GitHub Matrix
+
+### Activity Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true)
+
+### Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=s6ft256&theme=tokyonight&border_radius=10&hide_border=true)
+
+### Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6)
+
+### Quick Stats
+![Followers](https://img.shields.io/github/followers/s6ft256?label=Followers&style=for-the-badge)
+![Following](https://img.shields.io/github/following/s6ft256?label=Following&style=for-the-badge)
+![Total Repos](https://img.shields.io/github/repos/s6ft256?style=for-the-badge)
+![Total Stars](https://img.shields.io/github/stars/s6ft256?style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues/s6ft256?style=for-the-badge)
+![Open PRs](https://img.shields.io/github/issues-pr/s6ft256?style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/m/s6ft256?style=for-the-badge)
+ 
 
 ---
 
