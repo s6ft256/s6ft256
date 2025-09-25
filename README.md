@@ -37,15 +37,14 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true)
 ### Activity Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true)
 
-### Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=s6ft256&theme=tokyonight&border_radius=10&hide_border=true)
+
+
 ### Quick Stats
 ![Followers](https://img.shields.io/github/followers/s6ft256?label=Followers&style=for-the-badge)
 ![Following](https://img.shields.io/github/following/s6ft256?label=Following&style=for-the-badge)
