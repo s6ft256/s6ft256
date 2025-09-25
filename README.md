@@ -15,26 +15,8 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 
 ## 🧩 GitHub Matrix
 
-### Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true)
 
-### Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=s6ft256&theme=tokyonight&border_radius=10&hide_border=true)
-
-### Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6)
-
-### Quick Stats
-![Followers](https://img.shields.io/github/followers/s6ft256?label=Followers&style=for-the-badge)
-![Following](https://img.shields.io/github/following/s6ft256?label=Following&style=for-the-badge)
-![Total Repos](https://img.shields.io/github/repos/s6ft256?style=for-the-badge)
-![Total Stars](https://img.shields.io/github/stars/s6ft256?style=for-the-badge)
-![Open Issues](https://img.shields.io/github/issues/s6ft256?style=for-the-badge)
-![Open PRs](https://img.shields.io/github/issues-pr/s6ft256?style=for-the-badge)
-![Commits](https://img.shields.io/github/commit-activity/m/s6ft256?style=for-the-badge)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -67,6 +49,23 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
-## 𝗦𝘁𝗮𝘁𝘀
-![s6ft256's github stats](https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&theme=dracula)
+### Activity Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true)
+
+### Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=s6ft256&theme=tokyonight&border_radius=10&hide_border=true)
+### Quick Stats
+![Followers](https://img.shields.io/github/followers/s6ft256?label=Followers&style=for-the-badge)
+![Following](https://img.shields.io/github/following/s6ft256?label=Following&style=for-the-badge)
+![Total Repos](https://img.shields.io/github/repos/s6ft256?style=for-the-badge)
+![Total Stars](https://img.shields.io/github/stars/s6ft256?style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues/s6ft256?style=for-the-badge)
+![Open PRs](https://img.shields.io/github/issues-pr/s6ft256?style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/m/s6ft256?style=for-the-badge)
+
+### Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6)
 
