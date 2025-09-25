@@ -24,8 +24,5 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 ![GitHub Streak](https://streak-stats.demolab.com?user=s6ft256&theme=tokyonight&border_radius=10)  
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6)  
-![Metrics](https://github.com/s6ft256/s6ft256/blob/main/github-metrics.svg)
-
----
-
-✨ _Generated with ❤️ by [GitHub Profile Tools](https://github.com/anuraghazra/github-readme-stats)_  
+![Metrics] ![Metrics](https://github.com/s6ft256/s6ft256/blob/main/github-metrics.svg)
+ 
