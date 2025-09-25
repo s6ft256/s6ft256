@@ -45,15 +45,6 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 
 
 
-### Quick Stats
-![Followers](https://img.shields.io/github/followers/s6ft256?label=Followers&style=for-the-badge)
-![Following](https://img.shields.io/github/following/s6ft256?label=Following&style=for-the-badge)
-![Total Repos](https://img.shields.io/github/repos/s6ft256?style=for-the-badge)
-![Total Stars](https://img.shields.io/github/stars/s6ft256?style=for-the-badge)
-![Open Issues](https://img.shields.io/github/issues/s6ft256?style=for-the-badge)
-![Open PRs](https://img.shields.io/github/issues-pr/s6ft256?style=for-the-badge)
-![Commits](https://img.shields.io/github/commit-activity/m/s6ft256?style=for-the-badge)
-
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6)
 
