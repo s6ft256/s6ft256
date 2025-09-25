@@ -45,8 +45,5 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
-
 ![s6ft256's github stats](https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&theme=dracula)
 
