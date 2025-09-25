@@ -1,25 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm s6ft256!
 
-<!--
-**s6ft256/s6ft256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Developer** with a love for building scalable applications, solving problems, and learning cutting-edge technologies.  
 
-Here are some ideas to get you started:
+---
 
-# Hi 👋, I'm s6ft256  
+## 🚀 Tech Stack & Expertise  
 
-Welcome to my GitHub profile! 🚀  
+- **Frontend:** React, Next.js, Tailwind CSS, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Express, Python (Flask/Django), Java (Spring Boot)  
+- **Databases:** PostgreSQL, MySQL, MongoDB, NoSQL  
+- **AI & ML:** Chatbots, AI Agents, Fine-tuning models, AI-driven apps  
+- **Cloud & DevOps:** Docker, GitHub Actions, CI/CD, Cloud Platforms  
+- **Other:** APIs, Automation, Open Source Contributions  
 
-## 📊 GitHub Activity  
+---
+
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s6ft256&theme=react-dark)  
+![GitHub Streak](https://streak-stats.demolab.com?user=s6ft256&theme=tokyonight&border_radius=10)  
 
-![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s6ft256&theme=tokyonight)  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=7)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6)  
 
 ---
-✨ Generated with [GitHub Profile Tools](https://github.com/anuraghazra/github-readme-stats)
+
+✨ _Generated with ❤️ by [GitHub Profile Tools](https://github.com/anuraghazra/github-readme-stats)_  
