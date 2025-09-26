@@ -1,4 +1,4 @@
-# 👋 Hi, I'm s6ft256!
+# 👋 Hi, I'm ELIUS NIWAMANYA!
 
 I'm a passionate **Software Developer** with a love for building scalable applications, solving problems, and learning cutting-edge technologies.  
 
