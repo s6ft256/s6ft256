@@ -40,7 +40,6 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 ---
 
 ## 🧩 GitHub Matrix
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true)
