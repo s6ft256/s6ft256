@@ -38,10 +38,11 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ### Activity Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6)
