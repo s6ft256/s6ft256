@@ -45,3 +45,4 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6)
+
