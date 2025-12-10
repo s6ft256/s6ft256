@@ -44,11 +44,8 @@ I'm a passionate **Software Developer** with a love for building scalable applic
 ### Activity Overview
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6)
 
-<p align="center">
-  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-  
-</p>
 
 
