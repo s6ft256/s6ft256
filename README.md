@@ -11,6 +11,23 @@ I'm a passionate **Software Developer** who loves building scalable applications
 ### Frontend & Web  
 <p align="center">
   
+<style>
+.badge-container img {
+  margin: 6px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 150, 255, 0.25);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.badge-container img:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 12px rgba(0, 200, 255, 0.6);
+}
+</style>
+
+<div align="center" class="badge-container">
+
+<!-- FRONTEND -->
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
@@ -20,11 +37,9 @@ I'm a passionate **Software Developer** who loves building scalable applications
 <img src="https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react" />
 <img src="https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs" />
 
-</p>
+<br><br>
 
-### Backend & Databases  
-<p align="center">
-
+<!-- BACKEND & DATABASES -->
 <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=flask&logoColor=ffffff" />
@@ -34,11 +49,9 @@ I'm a passionate **Software Developer** who loves building scalable applications
 <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-NoSQL-%23000000?style=flat-square&logo=apachecassandra&logoColor=ffffff" />
 
-</p>
+<br><br>
 
-### Tools & DevOps  
-<p align="center">
-
+<!-- TOOLS & DEVOPS -->
 <img src="https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff" />
@@ -49,7 +62,8 @@ I'm a passionate **Software Developer** who loves building scalable applications
 <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
 <img src="https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff" />
 
-</p>
+</div>
+
 
 ---
 
