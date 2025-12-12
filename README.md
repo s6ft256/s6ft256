@@ -1,114 +1,14 @@
 <!-- ========================================================= -->
-<!-- 🌟 MEGA GLOWING ANIMATED BANNER -->
+<!-- 🌟 GLOWING ANIMATED NAME BANNER -->
 <!-- ========================================================= -->
-
-<style>
-  .mega-glow-banner {
-    width: 100%;
-    height: 200px; /* Bigger size */
-    border-radius: 25px;
-    position: relative;
-    margin: 25px auto;
-    max-width: 95%;
-    overflow: hidden;
-    background: linear-gradient(270deg, #ff00f0, #00eaff, #8aff00, #ffae00);
-    background-size: 800% 800%;
-    animation: megaFlowColors 10s ease infinite;
-  }
-  
-  .mega-glow-banner::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: url('https://github.com/s6ft256/s6ft256/blob/main/assets/glow-banner.gif') center/cover no-repeat;
-    mix-blend-mode: screen;
-    opacity: 0.9;
-    animation: gifPulse 4s infinite alternate;
-  }
-  
-  .mega-glow-banner::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    animation: megaGlowPulse 3s infinite alternate;
-    pointer-events: none;
-    border-radius: 25px;
-  }
-  
-  @keyframes megaFlowColors {
-    0% { 
-      background-position: 0% 50%;
-      filter: hue-rotate(0deg);
-    }
-    50% { 
-      background-position: 100% 50%;
-      filter: hue-rotate(180deg);
-    }
-    100% { 
-      background-position: 0% 50%;
-      filter: hue-rotate(360deg);
-    }
-  }
-  
-  @keyframes gifPulse {
-    0% { opacity: 0.7; transform: scale(1); }
-    100% { opacity: 1; transform: scale(1.05); }
-  }
-  
-  @keyframes megaGlowPulse {
-    0% { 
-      box-shadow: 
-        0 0 30px rgba(0, 255, 255, 0.7),
-        0 0 60px rgba(255, 0, 255, 0.5),
-        0 0 90px rgba(138, 255, 0, 0.3),
-        inset 0 0 40px rgba(255, 255, 255, 0.2);
-    }
-    100% { 
-      box-shadow: 
-        0 0 60px rgba(255, 0, 255, 1),
-        0 0 100px rgba(0, 255, 255, 0.8),
-        0 0 140px rgba(255, 174, 0, 0.6),
-        0 0 180px rgba(138, 255, 0, 0.4),
-        inset 0 0 60px rgba(255, 255, 255, 0.3);
-    }
-  }
-  
-  .mega-banner-content {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 10;
-    color: white;
-    font-size: 24px;
-    font-weight: bold;
-    text-shadow: 
-      0 0 10px rgba(255, 255, 255, 0.9),
-      0 0 20px rgba(0, 255, 255, 0.7),
-      0 0 30px rgba(255, 0, 255, 0.5);
-    text-align: center;
-    width: 100%;
-    padding: 0 20px;
-  }
-</style>
 
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+ELIUS+NIWAMANYA!;Software+Developer;Full-Stack+Engineer;Open-Source+Contributor" />
   </h1>
 
-  <!-- 🔥 MEGA GLOWING BANNER -->
-  <div class="mega-glow-banner">
-    <div class="mega-banner-content">
-      ✨ ELIUS NIWAMANYA | FULL-STACK DEVELOPER ✨
-    </div>
-  </div>
+  <!-- 🔥 Glowing Banner -->
+  <img src="https://github.com/s6ft256/s6ft256/blob/main/assets/glow-banner.gif" width="100%" alt="Glowing Banner"/>
 </div>
 
 ---
@@ -194,3 +94,7 @@ I'm a passionate **Software Developer** who loves building scalable applications
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
+---
+
+
