@@ -27,7 +27,7 @@ I'm a passionate **Software Developer** who loves building scalable applications
 
 ---
 
-## 💻 Skills & Tools
+##  Skills & Tools
 
 ### **Frontend & Web**
 
@@ -71,7 +71,7 @@ I'm a passionate **Software Developer** who loves building scalable applications
 
 ---
 
-## 📊 GitHub Analytics
+##  Analytics
 
 ### **Top Languages**
 <p>
@@ -83,21 +83,18 @@ I'm a passionate **Software Developer** who loves building scalable applications
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
-### 🏆 **GitHub Trophies**
+###  **GitHub Trophies**
 <p>
   <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 🐍 Animated Contribution Snake  
+#  Contribution Snake  
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
 
-# 👁 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=s6ft256&label=Profile+Views&color=00eeff&style=flat"/>
 
----
