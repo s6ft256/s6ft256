@@ -7,45 +7,30 @@ I'm a passionate **Software Developer** who loves building scalable applications
 
 ## 🧰 Skills & Tools
 
-### Frontend & Web
-<p>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00dc82?logo=nuxt&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white"
+       style="margin:6px; border-radius:8px; transition:0.2s; box-shadow:0 0 6px rgba(0,150,255,0.2);"
+       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px rgba(0,200,255,0.6)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 6px rgba(0,150,255,0.2)';"
+  />
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"
+       style="margin:6px; border-radius:8px; transition:0.2s; box-shadow:0 0 6px rgba(0,150,255,0.2);"
+       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px rgba(0,200,255,0.6)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 6px rgba(0,150,255,0.2)';"
+  />
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-000000?logo=databricks&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=000"
+       style="margin:6px; border-radius:8px; transition:0.2s; box-shadow:0 0 6px rgba(0,150,255,0.2);"
+       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px rgba(0,200,255,0.6)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 6px rgba(0,150,255,0.2)';"
+  />
 
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rollup.js-EC4A3F?logo=rollup.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"
+       style="margin:6px; border-radius:8px; transition:0.2s; box-shadow:0 0 6px rgba(0,150,255,0.2);"
+       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px rgba(0,200,255,0.6)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 6px rgba(0,150,255,0.2)';"
+  />
 </p>
 
 
