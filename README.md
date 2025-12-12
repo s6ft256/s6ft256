@@ -1,31 +1,21 @@
-<!-- ========================================================= -->
-<!-- 🌟 GLOWING ANIMATED NAME BANNER -->
-<!-- ========================================================= -->
-
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+ELIUS+NIWAMANYA!;Software+Developer;Full-Stack+Engineer;Open-Source+Contributor" />
   </h1>
 
-  <!-- 🔥 Glowing Banner -->
+
   <img src="https://github.com/s6ft256/s6ft256/blob/main/assets/glow-banner.gif" width="100%" alt="Glowing Banner"/>
 </div>
 
----
 
-<!-- ========================================================= -->
-<!-- 🌈 WAVY / GRADIENT DIVIDER -->
-<!-- ========================================================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6A00FF&height=80&section=header" />
 
----
 
 # 👋 Hi, I'm **ELIUS NIWAMANYA**
 
 I'm a passionate **Software Developer** who loves building scalable applications, solving real-world problems, and exploring modern technologies.
 
----
 
 ##  Skills & Tools
 
