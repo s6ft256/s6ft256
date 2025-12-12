@@ -7,31 +7,31 @@ I'm a passionate **Software Developer** who loves building scalable applications
 
 ## 🧰 Skills & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white"
-       style="margin:6px; border-radius:8px; transition:0.2s; box-shadow:0 0 6px rgba(0,150,255,0.2);"
-       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px rgba(0,200,255,0.6)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 6px rgba(0,150,255,0.2)';"
-  />
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"
-       style="margin:6px; border-radius:8px; transition:0.2s; box-shadow:0 0 6px rgba(0,150,255,0.2);"
-       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px rgba(0,200,255,0.6)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 6px rgba(0,150,255,0.2)';"
-  />
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=000"
-       style="margin:6px; border-radius:8px; transition:0.2s; box-shadow:0 0 6px rgba(0,150,255,0.2);"
-       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px rgba(0,200,255,0.6)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 6px rgba(0,150,255,0.2)';"
-  />
-
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"
-       style="margin:6px; border-radius:8px; transition:0.2s; box-shadow:0 0 6px rgba(0,150,255,0.2);"
-       onmouseover="this.style.transform='scale(1.15)'; this.style.boxShadow='0 0 12px rgba(0,200,255,0.6)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 6px rgba(0,150,255,0.2)';"
-  />
+### Frontend & Web
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00dc82?logo=nuxt&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
 </p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img
 
 
 ## 📊 GitHub Analytics  
