@@ -5,34 +5,81 @@
 I'm a passionate **Software Developer** who loves building scalable applications, solving real-world problems, and exploring modern technologies.
 
 
-## 🧰 Skills & Tools
+<div align="center">
 
-### Frontend & Web
-<p>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00dc82?logo=nuxt&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61dafb?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+# 👋 Hi, I'm ELIUS NIWAMANYA!
+
+I'm a passionate **Software Developer** who loves building scalable applications, solving real-world problems, and exploring modern technologies.
+
+---
+
+## 💻 Skills & Tools  
+
+### Frontend & Web  
+<p align="center">
+  
+<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs" />
+<img src="https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs" />
+<img src="https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs" />
+
 </p>
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+### Backend & Databases  
+<p align="center">
+
+<img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=flask&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-NoSQL-%23000000?style=flat-square&logo=apachecassandra&logoColor=ffffff" />
+
 </p>
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img
+### Tools & DevOps  
+<p align="center">
 
+<img src="https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
+<img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack" />
+<img src="https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
+<img src="https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+### Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### Activity Overview  
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+</div>
 
 ## 📊 GitHub Analytics  
 
