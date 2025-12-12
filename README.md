@@ -7,8 +7,31 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+ELIUS+NIWAMANYA!;Software+Developer;Full-Stack+Engineer;Open-Source+Contributor" />
   </h1>
 
-  <!-- 🔥 Glowing Banner -->
-  <img src="https://github.com/s6ft256/s6ft256/blob/main/assets/glow-banner.gif" width="100%" alt="Glowing Banner"/>
+  <!-- 🔥 Flowing Neon Banner -->
+  <style>
+    .flow-banner {
+      width: 100%;
+      height: 180px;
+      border-radius: 20px;
+      background: linear-gradient(270deg, #ff00f0, #00eaff, #8aff00, #ffae00);
+      background-size: 800% 800%;
+      animation: flowColors 12s ease infinite, glowPulse 3s infinite alternate;
+      margin-top: 10px;
+    }
+
+    @keyframes flowColors {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    @keyframes glowPulse {
+      0% { box-shadow: 0 0 20px rgba(0,255,255,0.5); }
+      100% { box-shadow: 0 0 40px rgba(255,0,255,0.9); }
+    }
+  </style>
+
+  <div class="flow-banner"></div>
 </div>
 
 ---
@@ -27,7 +50,7 @@ I'm a passionate **Software Developer** who loves building scalable applications
 
 ---
 
-##  Skills & Tools
+## ⚡ Skills & Tools
 
 ### **Frontend & Web**
 
@@ -50,7 +73,7 @@ I'm a passionate **Software Developer** who loves building scalable applications
   <img src="https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=flask&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff" />
+  <img src="https://img.shields.io-badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-NoSQL-%23000000?style=flat-square&logo=apachecassandra&logoColor=ffffff" />
 </p>
@@ -71,7 +94,7 @@ I'm a passionate **Software Developer** who loves building scalable applications
 
 ---
 
-##  Analytics
+## 📊 Analytics
 
 ### **Top Languages**
 <p>
@@ -83,18 +106,16 @@ I'm a passionate **Software Developer** who loves building scalable applications
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
-###  **GitHub Trophies**
+### **GitHub Trophies**
 <p>
   <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-#  Contribution Snake  
+# 🐍 Contribution Snake  
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
-
-
