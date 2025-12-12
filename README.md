@@ -10,7 +10,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6A00FF&height=80&section=header" />
-
+Elius Niwamanya
 
 I'm a passionate **Software Developer** who loves building scalable applications, solving real-world problems, and exploring modern technologies.
 
