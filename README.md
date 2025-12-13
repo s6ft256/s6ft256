@@ -58,7 +58,6 @@ I'm a passionate **Software Developer** who loves building scalable applications
   <img src="https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff" />
 </p>
 
----
 
 ##  Analytics
 
@@ -77,13 +76,11 @@ I'm a passionate **Software Developer** who loves building scalable applications
   <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
----
 
 #  Contribution Snake  
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
----
 
 
