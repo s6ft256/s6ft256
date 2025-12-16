@@ -77,7 +77,7 @@ I'm a passionate **Software Developer** who loves building scalable applications
 </p>
 
 
-#  Contribution Snake  
+#  Contribution  
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
