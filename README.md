@@ -57,25 +57,6 @@ I'm a passionate **Software Developer** who loves building scalable applications
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
   <img src="https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff" />
 </p>
-## 📊 Analytics
-
-### 💻 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256"
-    alt="Top Languages"
-  />
-</p>
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=s6ft256"
-    alt="GitHub Stats"
-  />
-</p>
 
 
 #  Contribution  
