@@ -61,26 +61,26 @@ I'm a passionate **Software Developer** who loves building scalable applications
 
 ## 📊 Analytics
 
-### 🧑‍💻 Top Languages
+### 💻 Top Languages
 <p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s6ft256&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
 ### 📈 GitHub Activity
 <p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=s6ft256&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
     alt="GitHub Statistics"
   />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img 
-    src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6" 
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6"
     alt="GitHub Trophies"
   />
 </p>
