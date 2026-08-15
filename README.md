@@ -57,31 +57,23 @@ I'm a passionate **Software Developer** who loves building scalable applications
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
   <img src="https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff" />
 </p>
-
-
 ## 📊 Analytics
 
 ### 💻 Top Languages
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s6ft256"
     alt="Top Languages"
   />
 </p>
 
-### 📈 GitHub Activity
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=s6ft256&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-</p>
+### 📈 GitHub Stats
 
-### 🏆 GitHub Trophies
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=s6ft256&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
+    src="https://github-readme-stats.vercel.app/api?username=s6ft256"
+    alt="GitHub Stats"
   />
 </p>
 
